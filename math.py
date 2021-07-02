@@ -1,8 +1,6 @@
-# add implementation
 def add(x,y):
     return x+y
 	
-#sub implementation	
 def subtract(x,y):
     return x-y 				#done in bug456 branch
 	
