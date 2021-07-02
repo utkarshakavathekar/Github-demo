@@ -2,7 +2,8 @@ def add(x,y):
     return x+y
 	
 def subtract(x,y):
-    return x-y
+    sub = x-y
+	return sub
 
 def multiply(x,y):
     return x*y				
