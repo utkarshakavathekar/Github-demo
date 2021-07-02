@@ -10,10 +10,7 @@ def multiply(x,y):
 	return mul
 
 def divide(x,y):
-    if y==0:					#Done by resolving conflicts
-		return DIVIDE_BY_0_ERROR
-	else:
-		return x/y
+   	return x/y
 
 def square(x):
 	pass
