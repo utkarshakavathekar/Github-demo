@@ -5,8 +5,9 @@ def subtract(x,y):
     sub = x-y
 	return sub
 
-def multiply(x,y):
-    return x*y				
+def multiply(x,y):	
+    mul = x*y		#in bug456
+	return mul
 
 def divide(x,y):
     if y==0:					#Done by resolving conflicts
